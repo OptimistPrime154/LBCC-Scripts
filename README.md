@@ -26,4 +26,4 @@ Each script in this repository represents a unique assignment or project from th
 
 ## 🙏 Acknowledgments
 
-I would like to express my gratitude to **Professor [Professor's Full Name]** for their guidance and dedication throughout the **Scripting Fundamentals (COSN-206)** course. Their teaching and support have been instrumental in my understanding of scripting and its applications.
+I would like to express my gratitude to **[Professor Jason Hillman]** for their guidance and dedication throughout the **Scripting Fundamentals (COSN-206)** course. Their teaching and support have been instrumental in my understanding of scripting and its applications.
